@@ -1,2 +1,2 @@
 # DemoProjectFrontend
-Frontend App Angular
+Frontend App Angular with GraphQL
