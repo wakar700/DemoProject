@@ -1,2 +1,2 @@
-# DemoProject
+# DemoProjectFrontend
 Frontend App Angular
